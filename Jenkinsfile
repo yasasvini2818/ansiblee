@@ -16,7 +16,7 @@ pipeline
    {
      steps
      {
-       git branch:'master',url:'https://github.com/yasasvini2818/ansiblee.git'
+       git branch:'master',url:'https://github.com/yasasvini2818/ansible2.git'
    }
   }
   stage('Build')
